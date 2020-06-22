@@ -1,6 +1,12 @@
 # progetto-risiko-1-team1
 progetto-risiko-1-team1 created by GitHub Classroom
 
+Progetto di Ingengeria informatica 2018-1029
+Claudio Rota 816050
+Simone Paolo Mottadelli 820786
+Matteo Paolella 816933
+Stefano Zuccarella 816482
+
 How to play game <br>
 The game can be played in a Local Area Network or directly online, using a modern browser, but Microsoft Edge and Internet Explorer do not work properly.
 <br>The game supports only a match at once. So there can't be multiple users playing in different matches.
